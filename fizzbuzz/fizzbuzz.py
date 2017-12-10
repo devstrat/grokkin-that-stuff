@@ -3,5 +3,5 @@ def fizzbuzz(num: int):
 
 
 if __name__ == '__main__':
-    for item in range(101):
+    for item in range(1, 101):
         print(fizzbuzz(item))
